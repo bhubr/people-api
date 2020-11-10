@@ -5,390 +5,390 @@
       "firstName": "Susanna",
       "lastName": "King",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Coventry",
         "country": "United Kingdom"
       },
       "email": "susanna.king@example.com",
       "picture": "https://randomuser.me/api/portraits/women/7.jpg",
-      "nationality": "British"
+      "nat": "British"
     },
     {
       "id": 2,
       "firstName": "Catherine",
       "lastName": "Gilbert",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Ely",
         "country": "United Kingdom"
       },
       "email": "catherine.gilbert@example.com",
       "picture": "https://randomuser.me/api/portraits/women/93.jpg",
-      "nationality": "British"
+      "nat": "British"
     },
     {
       "id": 3,
       "firstName": "Léa",
       "lastName": "Marchand",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Dunkerque",
         "country": "France"
       },
       "email": "lea.marchand@example.com",
       "picture": "https://randomuser.me/api/portraits/women/0.jpg",
-      "nationality": "French"
+      "nat": "French"
     },
     {
       "id": 4,
       "firstName": "Matteo",
       "lastName": "Michel",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Boulogne-Billancourt",
         "country": "France"
       },
       "email": "matteo.michel@example.com",
       "picture": "https://randomuser.me/api/portraits/men/46.jpg",
-      "nationality": "French"
+      "nat": "French"
     },
     {
       "id": 5,
       "firstName": "Anett",
       "lastName": "Schenkel",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Lennestadt",
         "country": "Germany"
       },
       "email": "anett.schenkel@example.com",
       "picture": "https://randomuser.me/api/portraits/women/36.jpg",
-      "nationality": "German"
+      "nat": "German"
     },
     {
       "id": 6,
       "firstName": "Samuel",
       "lastName": "Meyer",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Toulouse",
         "country": "France"
       },
       "email": "samuel.meyer@example.com",
       "picture": "https://randomuser.me/api/portraits/men/96.jpg",
-      "nationality": "French"
+      "nat": "French"
     },
     {
       "id": 7,
       "firstName": "Pedro",
       "lastName": "Schreck",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Lohne (Oldenburg)",
         "country": "Germany"
       },
       "email": "pedro.schreck@example.com",
       "picture": "https://randomuser.me/api/portraits/men/36.jpg",
-      "nationality": "German"
+      "nat": "German"
     },
     {
       "id": 8,
       "firstName": "Ryan",
       "lastName": "Schmitt",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Villeurbanne",
         "country": "France"
       },
       "email": "ryan.schmitt@example.com",
       "picture": "https://randomuser.me/api/portraits/men/51.jpg",
-      "nationality": "French"
+      "nat": "French"
     },
     {
       "id": 9,
       "firstName": "Resi",
       "lastName": "Abel",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Linnich",
         "country": "Germany"
       },
       "email": "resi.abel@example.com",
       "picture": "https://randomuser.me/api/portraits/women/91.jpg",
-      "nationality": "German"
+      "nat": "German"
     },
     {
       "id": 10,
       "firstName": "Adam",
       "lastName": "Bahr",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Dömitz",
         "country": "Germany"
       },
       "email": "adam.bahr@example.com",
       "picture": "https://randomuser.me/api/portraits/men/37.jpg",
-      "nationality": "German"
+      "nat": "German"
     },
     {
       "id": 11,
       "firstName": "Rosie",
       "lastName": "Turner",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Bangor",
         "country": "United Kingdom"
       },
       "email": "rosie.turner@example.com",
       "picture": "https://randomuser.me/api/portraits/women/95.jpg",
-      "nationality": "British"
+      "nat": "British"
     },
     {
       "id": 12,
       "firstName": "Marcos",
       "lastName": "Pastor",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Cartagena",
         "country": "Spain"
       },
       "email": "marcos.pastor@example.com",
       "picture": "https://randomuser.me/api/portraits/men/2.jpg",
-      "nationality": "Spanish"
+      "nat": "Spanish"
     },
     {
       "id": 13,
       "firstName": "Nick",
       "lastName": "Davies",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Coventry",
         "country": "United Kingdom"
       },
       "email": "nick.davies@example.com",
       "picture": "https://randomuser.me/api/portraits/men/84.jpg",
-      "nationality": "British"
+      "nat": "British"
     },
     {
       "id": 14,
       "firstName": "Perry",
       "lastName": "Carroll",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Portsmouth",
         "country": "United Kingdom"
       },
       "email": "perry.carroll@example.com",
       "picture": "https://randomuser.me/api/portraits/men/42.jpg",
-      "nationality": "British"
+      "nat": "British"
     },
     {
       "id": 15,
       "firstName": "Oscar",
       "lastName": "Marin",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Pamplona",
         "country": "Spain"
       },
       "email": "oscar.marin@example.com",
       "picture": "https://randomuser.me/api/portraits/men/4.jpg",
-      "nationality": "Spanish"
+      "nat": "Spanish"
     },
     {
       "id": 16,
       "firstName": "Lukas",
       "lastName": "Bäuerle",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Blieskastel",
         "country": "Germany"
       },
       "email": "lukas.bauerle@example.com",
       "picture": "https://randomuser.me/api/portraits/men/70.jpg",
-      "nationality": "German"
+      "nat": "German"
     },
     {
       "id": 17,
       "firstName": "Vladimir",
       "lastName": "Heid",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Groß-Gerau",
         "country": "Germany"
       },
       "email": "vladimir.heid@example.com",
       "picture": "https://randomuser.me/api/portraits/men/56.jpg",
-      "nationality": "German"
+      "nat": "German"
     },
     {
       "id": 18,
       "firstName": "Gabrielle",
       "lastName": "Lambert",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Limoges",
         "country": "France"
       },
       "email": "gabrielle.lambert@example.com",
       "picture": "https://randomuser.me/api/portraits/women/28.jpg",
-      "nationality": "French"
+      "nat": "French"
     },
     {
       "id": 19,
       "firstName": "Luz",
       "lastName": "Arias",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Ferrol",
         "country": "Spain"
       },
       "email": "luz.arias@example.com",
       "picture": "https://randomuser.me/api/portraits/women/44.jpg",
-      "nationality": "Spanish"
+      "nat": "Spanish"
     },
     {
       "id": 20,
       "firstName": "Don",
       "lastName": "Pena",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Bangor",
         "country": "United Kingdom"
       },
       "email": "don.pena@example.com",
       "picture": "https://randomuser.me/api/portraits/men/14.jpg",
-      "nationality": "British"
+      "nat": "British"
     },
     {
       "id": 21,
       "firstName": "Lisa",
       "lastName": "Bonnet",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Courbevoie",
         "country": "France"
       },
       "email": "lisa.bonnet@example.com",
       "picture": "https://randomuser.me/api/portraits/women/68.jpg",
-      "nationality": "French"
+      "nat": "French"
     },
     {
       "id": 22,
       "firstName": "Daryl",
       "lastName": "Rodriquez",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Leicester",
         "country": "United Kingdom"
       },
       "email": "daryl.rodriquez@example.com",
       "picture": "https://randomuser.me/api/portraits/men/0.jpg",
-      "nationality": "British"
+      "nat": "British"
     },
     {
       "id": 23,
       "firstName": "Rosalyn",
       "lastName": "Carter",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Stevenage",
         "country": "United Kingdom"
       },
       "email": "rosalyn.carter@example.com",
       "picture": "https://randomuser.me/api/portraits/women/93.jpg",
-      "nationality": "British"
+      "nat": "British"
     },
     {
       "id": 24,
       "firstName": "Jules",
       "lastName": "Clement",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Limoges",
         "country": "France"
       },
       "email": "jules.clement@example.com",
       "picture": "https://randomuser.me/api/portraits/men/37.jpg",
-      "nationality": "French"
+      "nat": "French"
     },
     {
       "id": 25,
       "firstName": "Raul",
       "lastName": "Serrano",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Lorca",
         "country": "Spain"
       },
       "email": "raul.serrano@example.com",
       "picture": "https://randomuser.me/api/portraits/men/4.jpg",
-      "nationality": "Spanish"
+      "nat": "Spanish"
     },
     {
       "id": 26,
       "firstName": "Naomi",
       "lastName": "Faure",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Toulon",
         "country": "France"
       },
       "email": "naomi.faure@example.com",
       "picture": "https://randomuser.me/api/portraits/women/70.jpg",
-      "nationality": "French"
+      "nat": "French"
     },
     {
       "id": 27,
       "firstName": "Wojciech",
       "lastName": "Kretschmann",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Gehren",
         "country": "Germany"
       },
       "email": "wojciech.kretschmann@example.com",
       "picture": "https://randomuser.me/api/portraits/men/53.jpg",
-      "nationality": "German"
+      "nat": "German"
     },
     {
       "id": 28,
       "firstName": "Cesar",
       "lastName": "Marin",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Ciudad Real",
         "country": "Spain"
       },
       "email": "cesar.marin@example.com",
       "picture": "https://randomuser.me/api/portraits/men/34.jpg",
-      "nationality": "Spanish"
+      "nat": "Spanish"
     },
     {
       "id": 29,
       "firstName": "Alice",
       "lastName": "Duncan",
       "gender": "female",
-      "location": {
+      "loc": {
         "city": "Stirling",
         "country": "United Kingdom"
       },
       "email": "alice.duncan@example.com",
       "picture": "https://randomuser.me/api/portraits/women/88.jpg",
-      "nationality": "British"
+      "nat": "British"
     },
     {
       "id": 30,
       "firstName": "Josep",
       "lastName": "Diaz",
       "gender": "male",
-      "location": {
+      "loc": {
         "city": "Barcelona",
         "country": "Spain"
       },
       "email": "josep.diaz@example.com",
       "picture": "https://randomuser.me/api/portraits/men/55.jpg",
-      "nationality": "Spanish"
+      "nat": "Spanish"
     }
   ]
 }
