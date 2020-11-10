@@ -20,7 +20,8 @@ const mapUserFields = ({
   email,
   picture,
   nat
-}) => ({
+}, idx) => ({
+  id: idx + 1,
   firstName: first,
   lastName: last,
   gender,
