@@ -27,10 +27,10 @@ const mapUserFields = ({
   gender,
   loc: { city, country },
   email,
-  picture: picture.large,
+  pic: picture.large,
   nat: nationalities[nat]
 })
 
-const people = results.map(mapUserFields);
+const people = results.slice(0, ).map(mapUserFields);
 const filePath = path.resolve(__dirname, '../db.json');
 fs.writeFileSync(filePath, JSON.stringify({ people }, null, 2));
