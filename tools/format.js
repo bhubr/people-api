@@ -25,10 +25,10 @@ const mapUserFields = ({
   firstName: first,
   lastName: last,
   gender,
-  location: { city, country },
+  loc: { city, country },
   email,
   picture: picture.large,
-  nationality: nationalities[nat]
+  nat: nationalities[nat]
 })
 
 const people = results.map(mapUserFields);
